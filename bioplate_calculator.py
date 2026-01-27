@@ -767,5 +767,6 @@ st.divider()
 st.markdown("""
 <div style='text-align: center; color: gray;'>
     BioPlate Calculator v1.0 | Python/Streamlit Implementation
+    <br> Powered by Biodaat    
 </div>
 """, unsafe_allow_html=True)
